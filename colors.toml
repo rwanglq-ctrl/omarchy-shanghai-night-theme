@@ -1,0 +1,31 @@
+# 上海·夜 Shanghai Night — 黄浦江夜色为底、外滩金为印、霓虹粉紫点缀。
+mode = "dark"
+accent = "#D8B45E"
+selection = "#212F4B"
+muted = "#5C6273"
+
+background = "#0E1420"
+dark_background = "#090D15"
+darker_background = "#05070B"
+lighter_background = "#172135"
+
+foreground = "#E6E2D8"
+dark_foreground = "#8C8E96"
+light_foreground = "#C4C1B8"
+bright_foreground = "#E6E2D8"
+
+red = "#E86A78"
+yellow = "#D8B45E"
+orange = "#E0955E"
+green = "#6FC2A0"
+cyan = "#5EC0D4"
+blue = "#7E9EF0"
+magenta = "#E07AC0"
+brown = "#B89A78"
+
+bright_red = "#ED8D98"
+bright_yellow = "#E0C37F"
+bright_green = "#8CCEB3"
+bright_cyan = "#7ECDDD"
+bright_blue = "#A3B9F4"
+bright_magenta = "#E89BD0"
