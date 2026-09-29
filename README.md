@@ -18,6 +18,8 @@ omarchy theme install https://github.com/rwanglq-ctrl/omarchy-shanghai-night-the
 4. [豫园湖心亭夜景](https://unsplash.com/photos/a-boat-floating-on-top-of-a-body-of-water-nwIhQUSmFfQ) — Julieta Julieta，Unsplash License（Unsplash）
 5. [Shanghai Bund at night 20260417 (4).jpg](https://commons.wikimedia.org/wiki/File:Shanghai_Bund_at_night_20260417_%284%29.jpg) — DvTor8303，CC0（Wikimedia Commons）；已裁切、缩放
 6. [豫园夜景](https://unsplash.com/photos/ornate-traditional-chinese-building-illuminated-at-night-TNs2jKkvc3Q) — Rich Xu，Unsplash License（Unsplash）
+7. [南京路霓虹夜雨](https://unsplash.com/photos/people-walking-and-standing-at-the-streets-of-the-city-during-night-njUBfL1Oc3Y) — Hyunwon Jang，Unsplash License（Unsplash）
+8. [南京路步行街夜景](https://unsplash.com/photos/a-group-of-people-walking-down-a-street-next-to-tall-buildings-F2xf8qg6c2w) — Anky Lau，Unsplash License（Unsplash）
 
 ## 许可
 
